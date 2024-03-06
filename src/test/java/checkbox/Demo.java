@@ -25,6 +25,8 @@ public class Demo {
 		for (WebElement vl : chk) {
 			Thread.sleep(2000);
 			vl.click();
+			
+			
 		}
 
 		Thread.sleep(3000);
